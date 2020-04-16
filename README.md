@@ -74,7 +74,7 @@
     </script>
 
 ```
-3.  调用
+4.  调用
 ```
    <script src="./Verification.js" type="text/javascript"></script>
 ```
